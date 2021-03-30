@@ -1,0 +1,19 @@
+.css-selector {
+    font-family: 'typewolf', serif;
+    }
+
+#buttons {
+    margin: 0;
+    position: absolute;
+    top: 42%;
+    left: 74.5%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-family: 'typewolf', serif;
+}
+#image {
+    height: 25%;
+    width: 100%;
+    transform: translateX(-5%);
+    transform: translateY(5%);
+}
